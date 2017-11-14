@@ -1,0 +1,2 @@
+# TradeCalculatorOne
+Type 1
